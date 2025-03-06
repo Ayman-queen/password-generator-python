@@ -1,6 +1,3 @@
-Here's a concise **README**:  
-
----
 
 # 🔐 Secure Password Generator  
 
